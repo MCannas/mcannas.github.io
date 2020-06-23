@@ -1,1 +1,8 @@
-A website for my favourite character is currently being built here!
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Luna Lovegood</h1>
+
+</body>
+</html>
